@@ -1,0 +1,21 @@
+.gridArea{
+   display: flex; 
+   flex-wrap: wrap;
+   width: 400px;
+   height: 400px;
+   border: 2px solid #000;
+   border-radius: 6px;
+}
+
+.grid {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.clearButton {
+    height: 30px;
+    width: 50px;
+}
