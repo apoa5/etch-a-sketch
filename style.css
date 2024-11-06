@@ -8,14 +8,9 @@
 }
 
 .grid {
-    width: 25px;
-    height: 25px;
     border: 1px solid #ccc;
     box-sizing: border-box;
     border-radius: 2px;
 }
 
-.clearButton {
-    height: 30px;
-    width: 50px;
-}
+
